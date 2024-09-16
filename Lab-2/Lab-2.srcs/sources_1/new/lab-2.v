@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 
 module Full_Adder( A, B, Cin, Sum, Cout );
-    
+
    input A, B, Cin;
    output Sum, Cout;
-   
+
    assign Sum = ( A ^ B ) ^ Cin;
    assign Cout = ( ( A ^ B ) && Cin ) || ( A & B );
-    
+
 endmodule
 
 module RCA_4b( A, B, Cin, Sum, Cout );
@@ -37,5 +37,19 @@ module RCA_8b( A, B, Cin, Sum, Cout );
 
     RCA_4b rca1( A[3:0], B[3:0], Cin, Sum[3:0], Carry );
     RCA_4b rca2( A[7:4], B[7:4], Carry, Sum[7:4], Cout );
+
+endmodule
+
+module Decoder3x8( In, Out );
+
+    input [2:0] In;
+    output [7:0] Out;
+    reg [7:0] Out;
+
+    always @( In ) begin
+
+        Out <= ( 1'b1 << In );
+
+    end
 
 endmodule
