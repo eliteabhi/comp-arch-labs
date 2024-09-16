@@ -1,0 +1,21 @@
+Time resolution is 1 ps
+in: 0110
+sel: 00
+out: z
+
+
+in: 0110
+sel: 01
+out: z
+
+
+in: 0110
+sel: 10
+out: z
+
+
+in: 0110
+sel: 11
+out: z
+
+
