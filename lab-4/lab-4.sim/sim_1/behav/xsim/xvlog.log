@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/school/comp-arch-labs/lab-4/lab-4.srcs/sources_1/new/Lab4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module full_sub_1b
+INFO: [VRFC 10-311] analyzing module full_sub_4b
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/school/comp-arch-labs/lab-4/lab-4.srcs/sim_1/new/lab4_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab4_tb

@@ -1,0 +1,401 @@
+Time resolution is 1 ps
+A: 0000 | B: 0000 | Bin: 1
+Diff: 1111, Bout: 1
+
+
+A: 0000 | B: 0001 | Bin: 0
+Diff: 1111, Bout: 1
+
+
+A: 0000 | B: 0001 | Bin: 1
+Diff: 1110, Bout: 1
+
+
+A: 0000 | B: 0010 | Bin: 0
+Diff: 1110, Bout: 1
+
+
+A: 0000 | B: 0010 | Bin: 1
+Diff: 1101, Bout: 1
+
+
+A: 0000 | B: 0011 | Bin: 0
+Diff: 1101, Bout: 1
+
+
+A: 0000 | B: 0011 | Bin: 1
+Diff: 1100, Bout: 1
+
+
+A: 0000 | B: 0100 | Bin: 0
+Diff: 1100, Bout: 1
+
+
+A: 0000 | B: 0100 | Bin: 1
+Diff: 1011, Bout: 1
+
+
+A: 0000 | B: 0101 | Bin: 0
+Diff: 1011, Bout: 1
+
+
+A: 0000 | B: 0101 | Bin: 1
+Diff: 1010, Bout: 1
+
+
+A: 0000 | B: 0110 | Bin: 0
+Diff: 1010, Bout: 1
+
+
+A: 0000 | B: 0110 | Bin: 1
+Diff: 1001, Bout: 1
+
+
+A: 0000 | B: 0111 | Bin: 0
+Diff: 1001, Bout: 1
+
+
+A: 0000 | B: 0111 | Bin: 1
+Diff: 1000, Bout: 1
+
+
+A: 0000 | B: 1000 | Bin: 0
+Diff: 1000, Bout: 1
+
+
+A: 0000 | B: 1000 | Bin: 1
+Diff: 0111, Bout: 1
+
+
+A: 0000 | B: 1001 | Bin: 0
+Diff: 0111, Bout: 1
+
+
+A: 0000 | B: 1001 | Bin: 1
+Diff: 0110, Bout: 1
+
+
+A: 0000 | B: 1010 | Bin: 0
+Diff: 0110, Bout: 1
+
+
+A: 0000 | B: 1010 | Bin: 1
+Diff: 0101, Bout: 1
+
+
+A: 0000 | B: 1011 | Bin: 0
+Diff: 0101, Bout: 1
+
+
+A: 0000 | B: 1011 | Bin: 1
+Diff: 0100, Bout: 1
+
+
+A: 0000 | B: 1100 | Bin: 0
+Diff: 0100, Bout: 1
+
+
+A: 0000 | B: 1100 | Bin: 1
+Diff: 0011, Bout: 1
+
+
+A: 0000 | B: 1101 | Bin: 0
+Diff: 0011, Bout: 1
+
+
+A: 0000 | B: 1101 | Bin: 1
+Diff: 0010, Bout: 1
+
+
+A: 0000 | B: 1110 | Bin: 0
+Diff: 0010, Bout: 1
+
+
+A: 0000 | B: 1110 | Bin: 1
+Diff: 0001, Bout: 1
+
+
+A: 0000 | B: 1111 | Bin: 0
+Diff: 0001, Bout: 1
+
+
+A: 0000 | B: 1111 | Bin: 1
+Diff: 0000, Bout: 1
+
+
+A: 0001 | B: 0000 | Bin: 0
+Diff: 0001, Bout: 0
+
+
+A: 0001 | B: 0000 | Bin: 1
+Diff: 0000, Bout: 0
+
+
+A: 0001 | B: 0001 | Bin: 0
+Diff: 0000, Bout: 0
+
+
+A: 0001 | B: 0001 | Bin: 1
+Diff: 1111, Bout: 1
+
+
+A: 0001 | B: 0010 | Bin: 0
+Diff: 1111, Bout: 1
+
+
+A: 0001 | B: 0010 | Bin: 1
+Diff: 1110, Bout: 1
+
+
+A: 0001 | B: 0011 | Bin: 0
+Diff: 1110, Bout: 1
+
+
+A: 0001 | B: 0011 | Bin: 1
+Diff: 1101, Bout: 1
+
+
+A: 0001 | B: 0100 | Bin: 0
+Diff: 1101, Bout: 1
+
+
+A: 0001 | B: 0100 | Bin: 1
+Diff: 1100, Bout: 1
+
+
+A: 0001 | B: 0101 | Bin: 0
+Diff: 1100, Bout: 1
+
+
+A: 0001 | B: 0101 | Bin: 1
+Diff: 1011, Bout: 1
+
+
+A: 0001 | B: 0110 | Bin: 0
+Diff: 1011, Bout: 1
+
+
+A: 0001 | B: 0110 | Bin: 1
+Diff: 1010, Bout: 1
+
+
+A: 0001 | B: 0111 | Bin: 0
+Diff: 1010, Bout: 1
+
+
+A: 0001 | B: 0111 | Bin: 1
+Diff: 1001, Bout: 1
+
+
+A: 0001 | B: 1000 | Bin: 0
+Diff: 1001, Bout: 1
+
+
+A: 0001 | B: 1000 | Bin: 1
+Diff: 1000, Bout: 1
+
+
+A: 0001 | B: 1001 | Bin: 0
+Diff: 1000, Bout: 1
+
+
+A: 0001 | B: 1001 | Bin: 1
+Diff: 0111, Bout: 1
+
+
+A: 0001 | B: 1010 | Bin: 0
+Diff: 0111, Bout: 1
+
+
+A: 0001 | B: 1010 | Bin: 1
+Diff: 0110, Bout: 1
+
+
+A: 0001 | B: 1011 | Bin: 0
+Diff: 0110, Bout: 1
+
+
+A: 0001 | B: 1011 | Bin: 1
+Diff: 0101, Bout: 1
+
+
+A: 0001 | B: 1100 | Bin: 0
+Diff: 0101, Bout: 1
+
+
+A: 0001 | B: 1100 | Bin: 1
+Diff: 0100, Bout: 1
+
+
+A: 0001 | B: 1101 | Bin: 0
+Diff: 0100, Bout: 1
+
+
+A: 0001 | B: 1101 | Bin: 1
+Diff: 0011, Bout: 1
+
+
+A: 0001 | B: 1110 | Bin: 0
+Diff: 0011, Bout: 1
+
+
+A: 0001 | B: 1110 | Bin: 1
+Diff: 0010, Bout: 1
+
+
+A: 0001 | B: 1111 | Bin: 0
+Diff: 0010, Bout: 1
+
+
+A: 0001 | B: 1111 | Bin: 1
+Diff: 0001, Bout: 1
+
+
+A: 0010 | B: 0000 | Bin: 0
+Diff: 0010, Bout: 0
+
+
+A: 0010 | B: 0000 | Bin: 1
+Diff: 0001, Bout: 0
+
+
+A: 0010 | B: 0001 | Bin: 0
+Diff: 0001, Bout: 0
+
+
+A: 0010 | B: 0001 | Bin: 1
+Diff: 0000, Bout: 0
+
+
+A: 0010 | B: 0010 | Bin: 0
+Diff: 0000, Bout: 0
+
+
+A: 0010 | B: 0010 | Bin: 1
+Diff: 1111, Bout: 1
+
+
+A: 0010 | B: 0011 | Bin: 0
+Diff: 1111, Bout: 1
+
+
+A: 0010 | B: 0011 | Bin: 1
+Diff: 1110, Bout: 1
+
+
+A: 0010 | B: 0100 | Bin: 0
+Diff: 1110, Bout: 1
+
+
+A: 0010 | B: 0100 | Bin: 1
+Diff: 1101, Bout: 1
+
+
+A: 0010 | B: 0101 | Bin: 0
+Diff: 1101, Bout: 1
+
+
+A: 0010 | B: 0101 | Bin: 1
+Diff: 1100, Bout: 1
+
+
+A: 0010 | B: 0110 | Bin: 0
+Diff: 1100, Bout: 1
+
+
+A: 0010 | B: 0110 | Bin: 1
+Diff: 1011, Bout: 1
+
+
+A: 0010 | B: 0111 | Bin: 0
+Diff: 1011, Bout: 1
+
+
+A: 0010 | B: 0111 | Bin: 1
+Diff: 1010, Bout: 1
+
+
+A: 0010 | B: 1000 | Bin: 0
+Diff: 1010, Bout: 1
+
+
+A: 0010 | B: 1000 | Bin: 1
+Diff: 1001, Bout: 1
+
+
+A: 0010 | B: 1001 | Bin: 0
+Diff: 1001, Bout: 1
+
+
+A: 0010 | B: 1001 | Bin: 1
+Diff: 1000, Bout: 1
+
+
+A: 0010 | B: 1010 | Bin: 0
+Diff: 1000, Bout: 1
+
+
+A: 0010 | B: 1010 | Bin: 1
+Diff: 0111, Bout: 1
+
+
+A: 0010 | B: 1011 | Bin: 0
+Diff: 0111, Bout: 1
+
+
+A: 0010 | B: 1011 | Bin: 1
+Diff: 0110, Bout: 1
+
+
+A: 0010 | B: 1100 | Bin: 0
+Diff: 0110, Bout: 1
+
+
+A: 0010 | B: 1100 | Bin: 1
+Diff: 0101, Bout: 1
+
+
+A: 0010 | B: 1101 | Bin: 0
+Diff: 0101, Bout: 1
+
+
+A: 0010 | B: 1101 | Bin: 1
+Diff: 0100, Bout: 1
+
+
+A: 0010 | B: 1110 | Bin: 0
+Diff: 0100, Bout: 1
+
+
+A: 0010 | B: 1110 | Bin: 1
+Diff: 0011, Bout: 1
+
+
+A: 0010 | B: 1111 | Bin: 0
+Diff: 0011, Bout: 1
+
+
+A: 0010 | B: 1111 | Bin: 1
+Diff: 0010, Bout: 1
+
+
+A: 0011 | B: 0000 | Bin: 0
+Diff: 0011, Bout: 0
+
+
+A: 0011 | B: 0000 | Bin: 1
+Diff: 0010, Bout: 0
+
+
+A: 0011 | B: 0001 | Bin: 0
+Diff: 0010, Bout: 0
+
+
+A: 0011 | B: 0001 | Bin: 1
+Diff: 0001, Bout: 0
+
+
+A: 0011 | B: 0010 | Bin: 0
+Diff: 0001, Bout: 0
+
+
