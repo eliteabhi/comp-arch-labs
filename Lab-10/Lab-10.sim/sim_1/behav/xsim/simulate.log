@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Expected Value : 41.000000 product : 0.000000
+Expected Value : 10.000000 product : 6.250000
+Expected Value : 41.000000 product : 6.250000
+Expected Value : 768.000000 product : 7.719201
+Expected Value : 41.000000 product : 7.719201
+Expected Value : 10.000000 product : 7.719201
+Expected Value : 186.000000 product : 768.000000
+Expected Value : 41.000000 product : 768.000000
+Expected Value : 10.000000 product : 768.000000
+Expected Value : 768.000000 product : 768.000000
